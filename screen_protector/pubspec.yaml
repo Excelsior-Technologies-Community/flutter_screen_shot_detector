@@ -1,7 +1,7 @@
 name: screen_protector
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_screen_shot_detector
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_screen_shot_detector
 
 environment:
   sdk: ^3.8.1
